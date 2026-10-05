@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 requests==2.31.0
 beautifulsoup4==4.12.2
 feedparser==6.0.10
+=======
+requests==2.31.0
+beautifulsoup4==4.12.2
+feedparser==6.0.10
+>>>>>>> f1d60ece1d278e54335111be368beed4751ed9ac
